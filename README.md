@@ -1,7 +1,7 @@
 # 使用 IINA+ 在 IINA 播放器上观看直播
 ### 所需软件
 * [IINA播放器](https://www.iina.io/)
-* [IINA+](https://github.com/masonvip/IINA-zhibo/blob/master/file01/iina%2B.0.4.7.dmg)
+* [IINA+](file01/iina+.0.4.8.dmg)
 ### 播放效果
 * 左侧是IINA+。
 * 右侧是IINA播放器。
