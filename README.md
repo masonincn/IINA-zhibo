@@ -29,4 +29,4 @@
 * 支持多个直播同时打开。
 * 调节某一个音量大小不影响其他直播音量。
 
-注：本文转载自:https://github.com/xjbeta/iina-plus
+本文转载自:https://github.com/xjbeta/iina-plus
