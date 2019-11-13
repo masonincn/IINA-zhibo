@@ -28,4 +28,4 @@
 * [IINA播放器](https://www.iina.io/)
 * [IINA+](file01/iina+.0.4.8.dmg)
 
-本文转载自：https://github.com/xjbeta/iina-plus
+本文参考自：https://github.com/xjbeta/iina-plus
