@@ -26,6 +26,6 @@
 ---
 ### 软件下载
 * [IINA播放器](https://www.iina.io/)
-* [IINA+](file01/iina+.0.4.8.dmg)
+* [IINA+](https://github.com/xjbeta/iina-plus/releases)
 
 本文参考自：https://github.com/xjbeta/iina-plus
