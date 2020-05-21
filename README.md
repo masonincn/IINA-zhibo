@@ -25,7 +25,8 @@
 
 ---
 ### 软件下载
+* [IINA+](https://github.com/xjbeta/iina-plus/releases  )
 * [IINA播放器](https://www.iina.io/)
-* [IINA+](https://pan.baidu.com/s/1yhRAS40Luv2k1BzHQv3kvg  )密码: g8e2
+* [IINA-danmaku( 如果bilibili无声音，请使用这个）](https://github.com/xjbeta/iina-danmaku/releases)
 
 参考来源：https://github.com/xjbeta/iina-plus
