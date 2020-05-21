@@ -27,6 +27,6 @@
 ### 软件下载
 * [IINA+](https://github.com/xjbeta/iina-plus/releases  )
 * [IINA播放器](https://www.iina.io/)
-* [IINA-danmaku( 如果bilibili无声音，请使用这个）](https://github.com/xjbeta/iina-danmaku/releases)
+* [IINA-danmaku](https://github.com/xjbeta/iina-danmaku/releases)(如果bilibili无声音，请使用这个播放器）
 
 参考来源：https://github.com/xjbeta/iina-plus
